@@ -42,6 +42,8 @@ public class CheckNameStartWithS {
 			}
 		}
 		fEmp.forEach(z->System.out.println(z));
+	
+	System.out.println("Sample Git");
 	}
 
 }
